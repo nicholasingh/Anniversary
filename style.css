@@ -1,0 +1,71 @@
+.all{
+    margin:50px;
+    text-align: center;
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+    font-size: larger;
+    color: rgb(176, 19, 153);
+}
+
+.her{
+    text-align: center;
+    padding-bottom: 100px;
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+    font-size:medium;
+    color: rgb(176, 19, 153);
+}
+
+img{
+    display: block;
+    padding: 5px;
+}
+
+.entire{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.smile1{
+    display: inline-block;
+ }
+
+/* .footer{
+    bottom : 0px;  
+    height : 40px;  
+    margin-top : 30px;  
+    text-align: center;  
+    vertical-align: middle; 
+    position:fixed;
+    width:100%;
+} */
+
+a{
+    color: rgb(252, 252, 252);
+}
+
+a:link {
+    text-decoration: none;
+    background-color: green;
+}
+
+li {
+    float: left;
+    padding: 5px;
+    list-style-type: none;
+}
+
+a:hover {
+    color: black;
+    background-color: grey;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: royalblue;
+    font-weight: bold;
+}
