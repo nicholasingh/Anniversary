@@ -38,34 +38,3 @@ img{
     position:fixed;
     width:100%;
 } */
-
-a{
-    color: rgb(252, 252, 252);
-}
-
-a:link {
-    text-decoration: none;
-    background-color: green;
-}
-
-li {
-    float: left;
-    padding: 5px;
-    list-style-type: none;
-}
-
-a:hover {
-    color: black;
-    background-color: grey;
-}
-
-ul{
-    display: flex;
-    justify-content: center;
-}
-
-p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: royalblue;
-    font-weight: bold;
-}
