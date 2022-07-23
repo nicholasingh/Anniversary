@@ -1,9 +1,15 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1661861.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
 .all{
     margin:50px;
     text-align: center;
     font-family: "Lucida Handwriting", "Brush Script MT", cursive;
     font-size: larger;
-    color: rgb(176, 19, 153);
+    color: rgb(54, 117, 205);
 }
 
 .her{
@@ -11,7 +17,7 @@
     padding-bottom: 100px;
     font-family: "Lucida Handwriting", "Brush Script MT", cursive;
     font-size:medium;
-    color: rgb(176, 19, 153);
+    color: rgb(54, 117, 205);
 }
 
 img{
