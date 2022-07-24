@@ -21,8 +21,16 @@ body {
 }
 
 .appbar{
+    position:absolute;
+    left:0;
+    right:0;
     background: url(AppBar.PNG);
+    background-size: contain;
     color:rgba(226, 227, 227, 0.988)
+}
+
+h3{
+    color: black;
 }
 
 img{
