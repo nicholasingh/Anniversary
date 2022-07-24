@@ -33,6 +33,10 @@ h3{
     color: black;
 }
 
+p{
+    color: rgb(72, 74, 77);
+}
+
 img{
     display: block;
     padding: 5px;
