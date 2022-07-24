@@ -20,6 +20,11 @@ body {
     color: rgb(54, 117, 205);
 }
 
+.appbar{
+    background: url(AppBar.PNG);
+    color:rgba(226, 227, 227, 0.988)
+}
+
 img{
     display: block;
     padding: 5px;
